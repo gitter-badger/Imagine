@@ -1,6 +1,8 @@
 [![Imagine](https://github.com/hRkz/Imagine/blob/gh-pages/images/imagine.jpg)](https://imagine.github.io)
 =======================
 
+[![Join the chat at https://gitter.im/hRkz/Imagine](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hRkz/Imagine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Imagine is a graphics framework made with performances and modularity in mind.
 It aims towards research and development.
 
